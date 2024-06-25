@@ -1,5 +1,12 @@
 [
   {
+    "name": "8ridgelite",
+    "url": "https://github.com/JamesStubbsEng/8ridgelite",
+    "description": "8 string guitar virtual instrument",
+    "type": "Instrument",
+    "frameworks": ["JUCE"]
+  },
+  {
     "name": "ADLplug",
     "url": "https://github.com/jpcima/ADLplug",
     "description": "FM Chip Synthesizer — OPL & OPN",
@@ -42,6 +49,13 @@
     "frameworks": ["JUCE"]
   },
   {
+    "name": "Audible Planets",
+    "url": "https://github.com/gregrecco67/AudiblePlanets",
+    "description": "An expressive, quasi-Ptolemaic semi-modular synthesizer",
+    "type": "Instrument",
+    "frameworks": ["JUCE"]
+  },
+  {
     "name": "Audio Effects",
     "url": "https://github.com/juandagilc/Audio-Effects",
     "description": "Plugins implemented from the explanations in the book “Audio Effects: Theory, Implementation and Application”",
@@ -66,6 +80,13 @@
     "name": "BlackBird",
     "url": "https://khrykin.github.io/BlackBird",
     "description": "Analog-inspired software synth with its own voice",
+    "type": "Instrument",
+    "frameworks": ["JUCE"]
+  },
+  {
+    "name": "blocks",
+    "url": "https://github.com/dan-german/blocks",
+    "description": "Polyphonic modular synth",
     "type": "Instrument",
     "frameworks": ["JUCE"]
   },
@@ -374,6 +395,13 @@
     "name": "modEQ",
     "url": "https://github.com/tobanteAudio/modEQ",
     "description": "EQ with modulation (VST3, AU)",
+    "type": "Effect",
+    "frameworks": ["JUCE"]
+  },
+  {
+    "name": "MultiMeter",
+    "url": "https://github.com/RealAlexZ/MultiMeter",
+    "description": "A comprehensive set of AU/VST audio analysis tools (level meters, histograms, spectrogram analyzer, goniometer, correlation meter)",
     "type": "Effect",
     "frameworks": ["JUCE"]
   },
